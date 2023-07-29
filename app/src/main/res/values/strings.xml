@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bibliothèque</string>
+    <string name="total_price">Total Price: %1$.2f</string>
+    <string name="price">Price: %1$.2f</string>
+
+
+</resources>
